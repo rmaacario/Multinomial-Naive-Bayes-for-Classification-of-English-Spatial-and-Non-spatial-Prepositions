@@ -1,1 +1,1 @@
-# Computational-Linguistics
+# Computational-Linguistics[A_Naive_Bayes_Classifier_for_English_Spatial_Prepositions-3.pdf](https://github.com/rmaacario/Computational-Linguistics/files/10437797/A_Naive_Bayes_Classifier_for_English_Spatial_Prepositions-3.pdf)
